@@ -4,7 +4,7 @@ title: adfinis/docs
 email: support@adfinis.com
 description: >-
   📚️ Docs for Adfinis projects
-baseurl: ""
+baseurl: "/adfinis.github.io/"
 url: "https://docs.adfinis.com"
 
 header:
