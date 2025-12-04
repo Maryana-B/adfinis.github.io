@@ -4,7 +4,7 @@ title: adfinis/docs
 email: support@adfinis.com
 description: >-
   📚️ Docs for Adfinis projects
-baseurl: "/adfinis.github.io/"
+baseurl: ""
 url: "https://docs.adfinis.com"
 
 header:
@@ -27,4 +27,4 @@ footer:
   github:
     href: "https://github.com/adfinis/"
 
-remote_theme: Maryana-B/jekyll-theme-adfinis-ng
+remote_theme: adfinis/jekyll-theme-adfinis-ng
